@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="NicholasBeridzeHW.csproj" />
+  <Project Path="../homeWork5/homeWork5.csproj" Id="ef17d8ff-4efd-4d57-b757-5d56312e5641" />
+  <Project Path="../homeWork6/homeWork6.csproj" Id="1ddfb99f-d958-4d57-b06d-e8d8f0a3c9b1" />
+  <Project Path="NicholasBeridzeHW.csproj" Id="b1eafad2-c345-4b84-b9a6-01b797b1d6e9" />
 </Solution>
